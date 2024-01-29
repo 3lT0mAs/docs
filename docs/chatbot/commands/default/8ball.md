@@ -18,6 +18,7 @@ The `!8ball` command is a fun chatbot command that mimics the classic magic 8-ba
 - `!eightball`
 - `!69ball`
 - `!420ball`
+- `!8ball`
 
 ### Example Input
 
